@@ -21,8 +21,8 @@ I'm an experienced Data Pro, thriving to work at the dynamic environments at the
 <!-- ## 🔭 Selected Projects: -->
 
 ## 📫 How to reach me: 
-- [Send me an email](mailto:roizen.vv@gmail.com)
-- [LinkedIn Profile]([https://www.linkedin.com/in/your-profile-url](https://www.linkedin.com/in/valery-roizen/)https://www.linkedin.com/in/valery-roizen/)
+- [Email](mailto:roizen.vv@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/valery-roizen/)
 
 <!-- ##⚡ Fun fact: -->
 
