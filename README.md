@@ -1,7 +1,7 @@
 ### Hi, I'm Valery 👋
 
 <!-- -->
-I'm an experienced Data Pro, thriving to work at the dynamic environments at the intersection of business and data. I specialize in advanced analytics, but I'm also hands-on with cloud and on-premises data solutions, creating visualizations, and automating mundane tasks. I'm curious about NLP, AI, and ML models that bring real-world value 🚀
+I'm an experienced Data Pro, thriving to work at the dynamic environments at the intersection of business and data. I specialize in advanced analytics, but I'm also hands-on with cloud and on-premises data solutions, creating visualizations, and automating routine tasks. I'm curious about NLP, AI, and ML models that bring real-world value 🚀
 
 👨‍💻 **Currently**: Looking for new opportunities! 
 
